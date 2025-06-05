@@ -1,1 +1,3 @@
-jgfvf
+body{
+    blackground-color: #DADADA;
+}
